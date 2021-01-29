@@ -1,0 +1,80 @@
+body {
+    background-image: url(luxfon.com-324.jpg);
+    max-width: 1200px;
+}
+.container {
+    width: 1200px;
+}
+div {
+    display: block;
+}
+.About {
+    margin-left: 500px;
+    }
+.logo {
+    margin-top: 35px;
+    float: left;
+    margin-left: 300px;
+}
+.about1 {
+    font-family: cursive;
+    font-size: 35px;
+    color: #FFD700;
+}
+.about2 {
+    font-family: cursive;
+    font-size: 25px;
+    color: #FFD700;
+}
+.cv {
+    margin-left: 250px;
+    font-family: cursive;
+    font-size: 25px;
+    float: left;
+    }
+a {
+    color: #FFD700;
+    font-family: cursive;
+}
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+.cv1 {
+    margin-left: 100px;
+    font-family: cursive;
+    font-size: 25px;
+    float: left;
+    }
+.samples {
+    margin-top: 20px;
+    margin-left: 500px;
+    font-family: cursive;
+    font-size: 25px;
+    color: #FFD700;
+    float: left;
+}
+.sample1 {
+    float: left;
+    margin-top: 180px;
+    margin-left: -500px;
+    text-align: center;
+    }
+.sample2 {
+    float: left;
+    margin-top: 180px;
+    margin-left: -300px;
+    text-align: center;
+    }
+.sample3 {
+    float: left;
+    margin-top: 180px;
+    margin-left: -100px;
+    text-align: center;
+    }
+.sample4 {
+    float: left;
+    margin-left: 100px;
+    margin-top: 180px;
+    text-align: center;
+    }
